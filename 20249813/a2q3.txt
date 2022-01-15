@@ -1,0 +1,4 @@
+Question:
+
+What is the difference between CNF, NNF and DNF? 
+Provide examples for each, and why it is impossible for each to be the other.
